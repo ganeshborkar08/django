@@ -130,3 +130,7 @@ STATIC_ROOT = BASE_DIR / "staticfiles"
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+FORCE_SCRIPT_NAME = '/api'
+
+
+
